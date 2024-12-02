@@ -5,9 +5,9 @@ import java.util.Map;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main
+public class day1
 {
-    public static void main(String[] args) throws Exception {
+    public static void day1(String[] args) throws Exception {
         List<Integer> first = new ArrayList<>();
         List<Integer> second = new ArrayList<>();
         

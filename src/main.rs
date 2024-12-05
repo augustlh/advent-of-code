@@ -22,8 +22,4 @@ fn main() {
     }
 
     println!("{:?}", res);
-
-    //part 2
-    //make a hashmap with value from i as key and value as amount of times appearing in j
-    //loop over all values, sum key * amount of appeareanses, return
 }
